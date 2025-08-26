@@ -14,6 +14,8 @@ GameObject:
   - component: {fileID: 4234831264735263969}
   - component: {fileID: 8257214770491434418}
   - component: {fileID: 6823570742109534764}
+  - component: {fileID: 5921639017106341108}
+  - component: {fileID: 6144187809816359054}
   m_Layer: 0
   m_Name: Lamp
   m_TagString: Untagged
@@ -2373,3 +2375,38 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+--- !u!136 &5921639017106341108
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7848664483101553489}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5407782
+  m_Height: 1.2786525
+  m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &6144187809816359054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7848664483101553489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9565b09da288c0d4092d81d7c8b09860, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

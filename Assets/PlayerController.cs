@@ -3,29 +3,27 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
-    private Rigidbody rb;
-    private float movementX;
-    private float movementY;
-    
-    public float speed = 0;
+    private float speed = 3.0f;
+    private float rotSpeed = 90.0f;
+
+    private CharacterController controller;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        rb = GetComponent<Rigidbody>();
+        controller = GetComponent<CharacterController>();
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    void Update()
     {
-        Vector3 movement = new Vector3 (movementX, 0.0f, movementY);
-        rb.AddForce(movement * speed);
-    }
+        float horzInput = Input.GetAxis("Horizontal");
+        float vertInput = Input.GetAxis("Vertical");
 
-    void OnMove(InputValue movementValue)
-    {
-        Vector2 movementVector = movementValue.Get<Vector2>();
-        movementX = movementVector.x;
-        movementY = movementVector.y;
+        transform.Rotate(Vector3.up, horzInput * rotSpeed *  Time.deltaTime);
+
+        Vector3 moveDirection = transform.forward * vertInput * speed;
+
+        controller.SimpleMove(moveDirection);
     }
 }
