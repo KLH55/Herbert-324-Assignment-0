@@ -131,6 +131,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 199033600}
+    - target: {fileID: 840087900456602081, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
+      propertyPath: m_VersionIndex
+      value: 5478
+      objectReference: {fileID: 0}
     - target: {fileID: 2640830373017029468, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_LocalPosition.x
       value: 50.637352
@@ -174,7 +178,7 @@ PrefabInstance:
     - target: {fileID: 6823570742109534764, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 1406708300}
+      objectReference: {fileID: 199033600}
     - target: {fileID: 7848664483101553489, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Name
       value: Lamp (9)
@@ -200,6 +204,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1406708300}
+    - target: {fileID: 840087900456602081, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
+      propertyPath: m_VersionIndex
+      value: 5478
+      objectReference: {fileID: 0}
     - target: {fileID: 2640830373017029468, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_LocalPosition.x
       value: 30.637352
@@ -243,7 +251,7 @@ PrefabInstance:
     - target: {fileID: 6823570742109534764, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 2079101541}
+      objectReference: {fileID: 1406708300}
     - target: {fileID: 7848664483101553489, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Name
       value: Lamp (6)
@@ -624,6 +632,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 770528236}
+    - target: {fileID: 840087900456602081, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
+      propertyPath: m_VersionIndex
+      value: 5478
+      objectReference: {fileID: 0}
     - target: {fileID: 2640830373017029468, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.362648
@@ -667,7 +679,7 @@ PrefabInstance:
     - target: {fileID: 6823570742109534764, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 630319969}
+      objectReference: {fileID: 770528236}
     - target: {fileID: 7848664483101553489, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Name
       value: Lamp (3)
@@ -868,6 +880,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 845022081}
+    - target: {fileID: 840087900456602081, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
+      propertyPath: m_VersionIndex
+      value: 5478
+      objectReference: {fileID: 0}
     - target: {fileID: 2640830373017029468, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_LocalPosition.x
       value: 50.637352
@@ -911,7 +927,7 @@ PrefabInstance:
     - target: {fileID: 6823570742109534764, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 1169931909}
+      objectReference: {fileID: 845022081}
     - target: {fileID: 7848664483101553489, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Name
       value: Lamp (8)
@@ -937,6 +953,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 630319969}
+    - target: {fileID: 840087900456602081, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
+      propertyPath: m_VersionIndex
+      value: 5478
+      objectReference: {fileID: 0}
     - target: {fileID: 2640830373017029468, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_LocalPosition.x
       value: -29.362648
@@ -1361,6 +1381,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 299426301}
+    - target: {fileID: 840087900456602081, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
+      propertyPath: m_VersionIndex
+      value: 5478
+      objectReference: {fileID: 0}
     - target: {fileID: 2640830373017029468, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_LocalPosition.x
       value: -29.362648
@@ -1430,6 +1454,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1169931909}
+    - target: {fileID: 840087900456602081, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
+      propertyPath: m_VersionIndex
+      value: 5478
+      objectReference: {fileID: 0}
     - target: {fileID: 2640830373017029468, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_LocalPosition.x
       value: 30.637352
@@ -1473,7 +1501,7 @@ PrefabInstance:
     - target: {fileID: 6823570742109534764, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 560936521}
+      objectReference: {fileID: 1169931909}
     - target: {fileID: 7848664483101553489, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Name
       value: Lamp (7)
@@ -1516,7 +1544,7 @@ GameObject:
   - component: {fileID: 713484436}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1533,7 +1561,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5816b46ced4e96b4b81dfd5e719fd675, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
 --- !u!114 &713484430
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1750,33 +1777,31 @@ MonoBehaviour:
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
---- !u!54 &713484437
-Rigidbody:
+--- !u!143 &713484437
+CharacterController:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 713484427}
-  serializedVersion: 4
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_CenterOfMass: {x: 0, y: 0, z: 0}
-  m_InertiaTensor: {x: 1, y: 1, z: 1}
-  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
-  m_ImplicitCom: 1
-  m_ImplicitTensor: 1
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
+  m_LayerOverridePriority: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Height: 2
+  m_Radius: 0.5000001
+  m_SlopeLimit: 45
+  m_StepOffset: 0.3
+  m_SkinWidth: 0.08
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &743372400
 GameObject:
   m_ObjectHideFlags: 0
@@ -2283,6 +2308,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 160381407}
+    - target: {fileID: 840087900456602081, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
+      propertyPath: m_VersionIndex
+      value: 5478
+      objectReference: {fileID: 0}
     - target: {fileID: 2640830373017029468, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.362648
@@ -2326,7 +2355,7 @@ PrefabInstance:
     - target: {fileID: 6823570742109534764, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 299426301}
+      objectReference: {fileID: 160381407}
     - target: {fileID: 7848664483101553489, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Name
       value: Lamp (2)
@@ -2712,6 +2741,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 560936521}
+    - target: {fileID: 840087900456602081, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
+      propertyPath: m_VersionIndex
+      value: 5478
+      objectReference: {fileID: 0}
     - target: {fileID: 2640830373017029468, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_LocalPosition.x
       value: 10.637352
@@ -2755,7 +2788,7 @@ PrefabInstance:
     - target: {fileID: 6823570742109534764, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 160381407}
+      objectReference: {fileID: 560936521}
     - target: {fileID: 7848664483101553489, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Name
       value: Lamp (4)
@@ -2786,6 +2819,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 2079101541}
+    - target: {fileID: 840087900456602081, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
+      propertyPath: m_VersionIndex
+      value: 5478
+      objectReference: {fileID: 0}
     - target: {fileID: 2640830373017029468, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_LocalPosition.x
       value: 10.637352
@@ -2829,7 +2866,7 @@ PrefabInstance:
     - target: {fileID: 6823570742109534764, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 770528236}
+      objectReference: {fileID: 2079101541}
     - target: {fileID: 7848664483101553489, guid: e153d13e8b6dd0642bdb745e0ea51229, type: 3}
       propertyPath: m_Name
       value: Lamp (5)

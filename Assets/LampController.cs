@@ -2,15 +2,12 @@ using UnityEngine;
 
 public class LampController : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public ParticleSystem party;
+    private void OnTriggerEnter(Collider collision)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            party.Play();
+        }
     }
 }
